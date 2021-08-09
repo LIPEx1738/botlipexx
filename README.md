@@ -12,7 +12,7 @@
 <a href="#"><img title="WHATSAPP DEV" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="git clone https://github.com/junhin-brabo/junhinbot
+<a href="git clone ttps://github.com/LIPEx1738/botlipexx.git
 "><img title="Author" src="https://img.shields.io/badge/Author-junhin-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
